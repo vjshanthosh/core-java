@@ -1,0 +1,178 @@
+Module 1: COMPLETED
+---------
+Java Why? What? How? When? Where?
+Different Java Versions.
+How Java is different from other Technologies
+
+
+
+
+Module 3:
+--------
+Naming convention of Java language
+Identifiers
+Keywords
+Literals
+Primitive Data Types, Range
+
+Module 4: COMPLETED
+-----------
+if,if-else, if else -if switch case
+do,while, for
+
+
+Module 8: COMPLETED
+--------------
+
+Program Compilation, Execution in Editor
+Using Eclipse IDE
+Project Set Up
+Source File Generation
+Application Compilation and Run
+
+
+13/02/2022
+----------------
+Wrapper Object:
+Autoboxing
+Unboxing
+Boolean
+Character
+Byte
+
+
+
+---------------
+
+
+
+14/02/2022
+--------------
+Introduction to HTML
+<html> tags
+<head> ,<title>, <body>, <h1>..<h6> tags, <p> tags
+back-ground-color, color
+Write a program using the above tags.
+
+16/02/2022
+--------------
+
+Integer,Float,Double,Short,Long
+
+
+        Byte byte1 = 5 ;  --- Good
+        Byte byte2 = 67 ;  
+        //compares the two specified byte values  
+        int val = Byte.compare(byte1,byte2);  
+        if (val>0) {  
+            System.out.println(i++ + ". "+byte1 + " is greater than " + byte2);  
+        }
+
+--------------------------------  
+
+
+
+19/02/2022
+----------
+
+Java command line argument
+HTML element
+
+Sample program using command line.
+Sample program using HTML element.
+
+21/02/2022
+---------
+String, StringBuffer, StringBuilder
+HTML attribute
+
+Sample Java program using String
+What is meant  String literal ?
+
+Sample program using HTML attribute
+23/02/2022
+-----------
+charAt()
+compareTo()
+concat()
+contains()
+endswith()
+equals()
+equalsIgnoreCase()
+format()
+getBytes()
+getChars()
+--------------------------------------
+25/02/2022
+
+StringBuffer and StringBuilder
+
+HTML Style
+
+String program 1 to 10 -program
+HTML styles 1 program
+Stringbuffer and Builder one program 2 porgram
+
+28/2/2022
+___________________________________________
+
+Exception handling - Arithemetic Exception
+String buffer and String builder 6 each program 12 programs
+HTMLstyle 1 por-gram more styples /colors
+Exception handling -go through
+-----------------------------------------------------------
+02/03/2022
+-------
+NumberFormatException
+ArrayInexOutofBoundsException
+NullPointerException
+
+1) Java Program to copy all elements of one array into another array
+2) Java Program to find the frequency of each element in the array
+3) Java Program to left rotate the elements of an array
+4) Java Program to print the duplicate elements of an array
+5) Java Program to print the elements of an array
+-----------------------------------------------------------------
+
+1)write  a program to add, subtract,multiply and divide by getting input from user -okay
+2)Write a program to print grade using switch Example A grade if mark >.90 to 100 b if mark >.80 to 90 and  c grade for all<=,79 -okay
+3)write a program to count the lenght wiht out lenght() function use for loop to count length of string array can be used -okay
+4)Wwite a program to print elements in aray by adding 5 to each {[1,2,34,5}] -Please [6,7,39,10] -Please redo
+5)Write a program to implment single inheritance -okay
+6)Write a program to reverse a string and print use for loop -okay
+---------------------------------------------------------------------------------
+06/03/2022
+File Input / Output :
+
+1) Create file name : Testing.txt, Write a content , Hello world, I am learning Java.
+2) Write a program to handle NumberFormat Exception, Null pointer Exception, Arithmetic Exception and ArrayIndexOutBounds
+3) Write a program to compare two string equla or not.
+4) Write a program to add the value in arays int a[] =1,2,3,4,5 b[]=1,2,3,4,5 o/p : 2,4,6,8,10
+5) Write all java keywords so far covered in excel 
+------------------------------------------------------------------------
+
+08/03/2022
+
+Introduction to Collections
+Sample program using ArrayList
+Complete the diagram in Word
+------------------------------------------------------------------------
+
+10/03/2022
+
+ArrayList - how to remove an item from arrayList
+LinkedList how to remove an item from linkedList
+Vector how to remove an item from VECTOR
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
